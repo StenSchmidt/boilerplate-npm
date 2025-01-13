@@ -13,5 +13,6 @@
 	},
 	"author": "Sten Schmidt",
 	"description": "I am very professional and I will only write things that are professional",
-	"keywords": ["I", "always", "know", "exactly what Im doing", "freecodecamp"]
+	"keywords": ["I", "always", "know", "exactly what Im doing", "freecodecamp"],
+	"license": "MIT"
 }
