@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.21.2"
+		"express": "^4.21.2",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -15,9 +16,5 @@
 	"description": "I am very professional and I will only write things that are professional",
 	"keywords": ["I", "always", "know", "exactly what Im doing", "freecodecamp"],
 	"license": "MIT",
-	"version": "1.7.5",
-	"dependencies": {
-		"package-name": "@freecodecamp/example",
-		"express": "1.1.0"
-	}
+	"version": "1.7.5"
 }
